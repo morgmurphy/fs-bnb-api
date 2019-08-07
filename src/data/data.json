@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "Byron",
+            "lastName": "de Villiers",
+            "cellPhone": "0829123465",
+            "email": "byron@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "2",
+            "firstName": "by",
+            "lastName": "de Villiers",
+            "cellPhone": "0829123465",
+            "email": "byron@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "3",
+            "firstName": "ron",
+            "lastName": "de Villiers",
+            "cellPhone": "0829123465",
+            "email": "byron@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "3",
+            "firstName": "alice",
+            "lastName": "de Villiers",
+            "cellPhone": "0829123465",
+            "email": "alice@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        }
+    ]
+}
